@@ -1,4 +1,5 @@
 <!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/.gif)](website) -->
+<img src="./cover img.jpeg" alt="cover pic">
 # Hi,
 # I'm Michael
 
