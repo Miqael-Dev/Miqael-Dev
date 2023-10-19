@@ -20,14 +20,18 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20ContactZone-App-white)](https://contactzone-2ad8c.web.app/)
-[![](https://img.shields.io/badge/-🦠%20)]()
+[![](https://img.shields.io/badge/-🧬%20ContactZone--App-white)](https://contactzone-2ad8c.web.app/)
+<!-- [![](https://img.shields.io/badge/-🦠%20)]()
 [![](https://img.shields.io/badge/-📝%20)]()
 [![](https://img.shields.io/badge/-🔬%20)]()
 [![](https://img.shields.io/badge/-🛰%20)]()
 [![](https://img.shields.io/badge/-🔊%20)]()
-[![](https://img.shields.io/badge/-🗺%20)]()
+[![](https://img.shields.io/badge/-🗺%20)]() -->
 
 ### What I'm currently learning
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Angular.js](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
 
