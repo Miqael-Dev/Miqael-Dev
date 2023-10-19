@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-<!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/.gif)](website) -->
 <img src="./cover img.jpeg" alt="cover pic">
-=======
-<!-- [![](https://github.com/Miqael-Dev/Miqael-Dev/blob/main/cover%20img.jpeg?raw=true)](website) -->
-
->>>>>>> a7a674b9d36b460b5d55331e160cddd34fd126f5
-# Hi,
-# I'm Michael
-
+<hr>
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
