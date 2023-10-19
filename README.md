@@ -20,7 +20,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%50ContactZone-App)](https://contactzone-2ad8c.web.app/)
+[![](https://img.shields.io/badge/-🧬%20ContactZone-App-white)](https://contactzone-2ad8c.web.app/)
 [![](https://img.shields.io/badge/-🦠%20)]()
 [![](https://img.shields.io/badge/-📝%20)]()
 [![](https://img.shields.io/badge/-🔬%20)]()
