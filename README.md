@@ -1,10 +1,10 @@
 <img src="./cover img.jpeg" alt="cover pic">
 <hr>
-Hello, my name is Michael and I'm a front-end developer with a focus on mobile app development. I'm currently studying Mathematical Science with a major in Computer Science at the University, where I'm building my technical skills and staying up-to-date with the latest technologies.
+Hello👋, my name is Michael and I'm a front-end developer with a focus on mobile app development. I'm currently offering Computer Science at University of Ghana, where I'm building my technical skills and staying up-to-date with the latest technologies.
 
 In addition to my programming skills in HTML, CSS, JavaScript, and React.js, I'm also proficient in Microsoft Office and spreadsheet tools, as well as graphic designing. I believe my diverse skillset allows me to approach development projects from multiple angles and create solutions that are both functional and visually appealing.
 
-I'm passionate about creating user-friendly interfaces and solving real-world problems through technology. As a front-end developer, I'm always looking for new challenges and opportunities to learn and grow. If you're interested in working together or have any questions, please feel free to reach out to me!
+I'm passionate about creating user-friendly interfaces and solving real-world problems through technology. As a fullstack developer, I'm always looking for new challenges and opportunities to learn and grow. If you're interested in working together or have any questions, please feel free to reach out to me!🔥😎
 
 <hr>
 
@@ -19,6 +19,7 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 <hr>
 
 ### Technologies
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -26,7 +27,6 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 <hr>
 
 ### Full Stack Projects
-
 [![](https://img.shields.io/badge/-🧬%20ContactZone--App-white)](https://contactzone-2ad8c.web.app/)
 <!-- [![](https://img.shields.io/badge/-🦠%20)]()
 [![](https://img.shields.io/badge/-📝%20)]()
