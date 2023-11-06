@@ -32,11 +32,11 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 <table>
   <tbody>
     <tr>
-      <td><img src="./node.js.png" title="Node.js" width="60px" alt="node.js"/></td>
+      <td><img src="./nodejs.png" title="Node.js" width="60px" alt="node.js"/></td>
       <td><img src="./mangoDB.png" title=MangoDB" width="60px" alt="mangodb"/></td>
       <td><img src="./redux.png" title="Redux" width="60px" alt="redux"/></td>
-      <td><img src="./next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
-      <td><img src="./Express.png" title="ExpressJs" width="60px" alt="express.js"/></td>
+      <td><img src="./Next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
+      <td><img src="./Express.js.png" title="ExpressJs" width="60px" alt="express.js"/></td>
     </tr>
   </tbody>
 </table>
