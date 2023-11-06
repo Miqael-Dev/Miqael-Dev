@@ -10,7 +10,7 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 
 ### Languages
 
-<img src="./python.png" alt="python"/>
+<img src="./python.png" width="100px" alt="python"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
