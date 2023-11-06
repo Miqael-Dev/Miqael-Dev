@@ -1,4 +1,4 @@
-<img src="./cover img.jpeg" alt="cover pic">
+<img src="./cover img.jpeg" width="100px" alt="cover pic">
 <hr>
 Hello👋, my name is Michael and I'm a front-end developer with a focus on mobile app development. I'm currently offering Computer Science at University of Ghana, where I'm building my technical skills and staying up-to-date with the latest technologies.
 
