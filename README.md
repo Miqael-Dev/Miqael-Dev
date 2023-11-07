@@ -14,7 +14,8 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 <table>
   <tbody>
     <tr>
-      <td><img src="./node.js.png" title="node.js" width="60px" alt="node.js"/></td>
+      <td><img src="./html.png" title="HTML" width="60px" alt="html"/></td>
+      <td><img src="./css.png" title="CSS" width="60px" alt="html"/></td>
       <td><img src="./JavaScript.png" title="JavaScript" width="60px" alt="javascript"/></td>
       <td><img src="./python.png" title="Python" width="60px" alt="python"/></td>
       <td><img src="./React.png" title="React.js" width="60px" alt="react.js"/></td>
@@ -33,9 +34,7 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
   <tbody>
     <tr>
       <td><img src="./nodejs.png" title="Node.js" width="60px" alt="node.js"/></td>
-      <td><img src="./Next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
       <td><img src="./mongodb.png" title=MangoDB" width="60px" alt="mangodb"/></td>
-      <td><img src="./Redux.png" title="Redux" width="60px" alt="redux"/></td>
       <td><img src="./Express.js.png" title="ExpressJs" width="60px" alt="express.js"/></td>
     </tr>
   </tbody>
@@ -52,10 +51,18 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 [![](https://img.shields.io/badge/-🔊%20)]()
 [![](https://img.shields.io/badge/-🗺%20)]() -->
 
+<hr/>
+
 ### What I will like to learn
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![Angular.js](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./Next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
+      <td><img src="./angular.png" title="Angular" width="60px" alt="Angular"/></td>
+      <td><img src="./vue.png" title="Vue" width="60px" alt="Vue"/></td>
+      <td><img src="./Redux.png" title="Redux" width="60px" alt="redux"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
