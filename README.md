@@ -53,7 +53,7 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 
 <hr/>
 
-### What I will like to learn
+### What I would like to learn
 <table>
   <tbody>
     <tr>
