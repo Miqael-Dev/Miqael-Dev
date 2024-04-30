@@ -21,6 +21,7 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
       <td><img src="./React.png" title="React.js" width="60px" alt="react.js"/></td>
       <td><img src="./Firebase.png" title="Firebase" width="60px" alt="firebase"/></td>
       <td><img src="./typescript.png" title="Typescript" width="60px" alt="typescript"/></td>
+      <td><img src="./Next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
     </tr>
   </tbody>
 </table>
@@ -57,7 +58,6 @@ I'm passionate about creating user-friendly interfaces and solving real-world pr
 <table>
   <tbody>
     <tr>
-      <td><img src="./Next.js.png" title="Next.Js" width="60px" alt="next.js"/></td>
       <td><img src="./angular.png" title="Angular" width="60px" alt="Angular"/></td>
       <td><img src="./vue.png" title="Vue" width="60px" alt="Vue"/></td>
       <td><img src="./Redux.png" title="Redux" width="60px" alt="redux"/></td>
